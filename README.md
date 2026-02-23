@@ -57,18 +57,21 @@ The output waveform is in phase with the input waveform.
 ## Viva Questions
 
 1.	What is a Non-Inverting Amplifier?
+	
 	A non-inverting amplifier is an op-amp circuit where input is applied to the positive (+) terminal.
 The output is amplified and remains in the same phase as the input.
 
-2.	What is the gain formula?
+2.	What is the gain formula?	
   The gain of a non-inverting amplifier is Av = 1 + (Rf / R1).
 Rf is feedback resistor and R1 is resistor connected to ground.
 
 3.	Why is output in phase?
+   
 	Because the input is given to the non-inverting (+) terminal of the op-amp.
 So the output signal has the same phase as the input signal.
 
 4.	What happens if Rf increases?
+	
  	If feedback resistance Rf increases, the gain increases.
 So the output voltage also increases.
 
